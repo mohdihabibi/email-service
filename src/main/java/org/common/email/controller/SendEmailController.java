@@ -17,7 +17,7 @@ public class SendEmailController {
     @RequestMapping(value = "/testSendEmail" , method = RequestMethod.GET)
     public void sendEmail(){
         try {
-            emailService.sendMail("test@gmail.com", "Test Subject", "TestMessage");
+            emailService.sendMail("mohdihabibi@gmail.com", "Test Subject", "TestMessage");
         } catch (MessagingException e) {
             e.printStackTrace();
         }
