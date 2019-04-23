@@ -63,5 +63,9 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.3.8.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.icegreen:greenmail:1.5.5" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-sync:3.10.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:3.10.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.10.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-mongodb:unknown" level="project" />
   </component>
 </module>
